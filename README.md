@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Graduated **B.Sc. Computer Science** student at KSD Model College, Dombivli (2023–2026)
+- 🎓 Graduated **B.Sc. Computer Science** student from KSD Model College, Dombivli (2023–2026)
 - 💼 Interned at **Codec Technologies** — built an AI-powered Sentiment Analysis web app
 - 🏫 Interned at **Model College** — built a full-stack Placement Cell Management System
 - 🌱 Currently improving my **Data Structures & Algorithms** skills
