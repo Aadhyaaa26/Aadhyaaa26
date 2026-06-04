@@ -21,13 +21,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final year **B.Sc. Computer Science** student at KSD Model College, Dombivli (2023–2026)
+- 🎓 Graduated **B.Sc. Computer Science** student at KSD Model College, Dombivli (2023–2026)
 - 💼 Interned at **Codec Technologies** — built an AI-powered Sentiment Analysis web app
 - 🏫 Interned at **Model College** — built a full-stack Placement Cell Management System
 - 🌱 Currently improving my **Data Structures & Algorithms** skills
 - 🚀 Passionate about building real-world web applications with clean, scalable code
-
----
 
 ## 🛠️ Tech Stack
 
@@ -62,8 +60,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
 ### 🏫 [Placement Cell Website](https://github.com/Aadhyaaa26/Placement-Cell-Website)
@@ -74,8 +70,6 @@
 - Features: AI Resume Analyzer, Interview Prep modules, Job Match Algorithm, Salary Predictor
 - **Tech:** Node.js · Express · MySQL · HTML · CSS · JavaScript
 
----
-
 ### 🤖 AI Sentiment Analysis App *(coming soon to GitHub)*
 > NLP-powered text classification web application built during internship at Codec Technologies
 
@@ -84,16 +78,12 @@
 - Lifted accuracy from 71% baseline to 85% on real-world text data
 - **Tech:** Python · scikit-learn · NLP · HTML · CSS · JavaScript
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aadhyaaa26&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhyaaa26&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
 
 ## 📫 Let's Connect
 
