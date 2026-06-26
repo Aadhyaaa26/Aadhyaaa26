@@ -52,6 +52,7 @@
 **ML / NLP**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-blueviolet?style=flat-square)
 
 **Tools**
@@ -62,6 +63,15 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 [AI Sentiment Analysis App](https://github.com/Aadhyaaa26/Sentiment-analysis-app)
+> NLP-powered text classification web app built during internship at Codec Technologies
+
+- Classifies text as positive, negative, or neutral in real time with a live confidence score
+- Full custom NLP pipeline: tokenization, stop-word removal, TF-IDF feature extraction
+- Lifted accuracy from a 71% baseline to **85%** on real-world text data
+- Flask REST API backend + responsive vanilla JS frontend with a live "mood gauge" visualization
+- **Tech:** Python · scikit-learn · Flask · NLP · HTML · CSS · JavaScript
+
 ### 🏫 [Placement Cell Website](https://github.com/Aadhyaaa26/Placement-Cell-Website)
 > Full-stack campus recruitment platform built with Node.js, Express, and MySQL
 
@@ -69,14 +79,6 @@
 - Role-based access control (RBAC) with secure JWT authentication
 - Features: AI Resume Analyzer, Interview Prep modules, Job Match Algorithm, Salary Predictor
 - **Tech:** Node.js · Express · MySQL · HTML · CSS · JavaScript
-
-### 🤖 AI Sentiment Analysis App *(coming soon to GitHub)*
-> NLP-powered text classification web application built during internship at Codec Technologies
-
-- Classifies text as positive, negative, or neutral with **85% accuracy**
-- Built full NLP pipeline: tokenization, stop-word removal, TF-IDF feature extraction
-- Lifted accuracy from 71% baseline to 85% on real-world text data
-- **Tech:** Python · scikit-learn · NLP · HTML · CSS · JavaScript
 
 ## 📊 GitHub Stats
 
