@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aadhya Nadar 👋</h1>
 
 <p align="center">
-  <b>Computer Science Graduate · Software Developer · AI/ML Enthusiast</b><br>
+  <b>Computer Science Graduate · Data Analyst · AI/ML Enthusiast</b><br>
   Mumbai, Maharashtra, India
 </p>
 
