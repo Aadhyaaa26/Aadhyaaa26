@@ -89,7 +89,7 @@
 
 ## 📫 Let's Connect
 
-I'm actively looking for **internship and fresher opportunities** in full stack development and AI/ML.
+I'm actively looking for **fresher opportunities** in Data Analyst and AI/ML.
 Feel free to reach out!
 
 - 📧 aadhyanadar@gmail.com
