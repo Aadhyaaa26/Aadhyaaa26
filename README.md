@@ -22,19 +22,14 @@
 
 ## 👩‍💻 About Me
 
-```python
-class AadhyaNadar:
-    def __init__(self):
-        self.role = "Data Analyst"
-        self.education = "B.Sc. Computer Science, Mumbai University (2023–2026)"
-        self.cgpa = 8.19
-        self.location = "Mumbai, Maharashtra, India"
-        self.focus = ["Data Analysis", "SQL", "Data Visualization", "EDA"]
-        self.currently_learning = ["Advanced Power BI", "Data Engineering", "ML Deployment"]
-
-    def philosophy(self):
-        return "Good data tells a story — my job is to make sure it gets told clearly."
-```
+<table>
+<tr><td width="180"><b>🎯 Role</b></td><td>Data Analyst</td></tr>
+<tr><td><b>🎓 Education</b></td><td>B.Sc. Computer Science, Mumbai University (2023–2026) — CGPA 8.19</td></tr>
+<tr><td><b>📍 Location</b></td><td>Mumbai, Maharashtra, India</td></tr>
+<tr><td><b>🔭 Focus</b></td><td>Data Analysis · SQL · Data Visualization · EDA</td></tr>
+<tr><td><b>🌱 Currently Learning</b></td><td>Advanced Power BI · Data Engineering · ML Deployment</td></tr>
+<tr><td><b>💬 Philosophy</b></td><td><i>"Good data tells a story — my job is to make sure it gets told clearly."</i></td></tr>
+</table>
 
 - 🎓 B.Sc. in Computer Science, KSD Model College, Dombivli (Mumbai University) — **CGPA 8.19**, graduating 2026
 - 📊 Hands-on experience turning messy, real-world data into clean pipelines and decision-ready dashboards
