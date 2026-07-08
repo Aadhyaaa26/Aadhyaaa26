@@ -1,96 +1,189 @@
-<h1 align="center">Hi, I'm Aadhya Nadar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Computer Science Graduate · Data Analyst · AI/ML Enthusiast</b><br>
-  Mumbai, Maharashtra, India
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=Aadhya%20Nadar&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%2B%20SQL%20%2B%20Power%20BI&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/aadhyanadar2605">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aadhyanadar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aadhyaaa26">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/aadhyanadar2605">
+  <img src="https://img.shields.io/badge/LinkedIn-aadhyanadar2605-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b26" />
+</a>
+<a href="mailto:aadhyanadar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aadhyanadar@gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b26" />
+</a>
+<a href="https://github.com/Aadhyaaa26">
+  <img src="https://img.shields.io/badge/GitHub-Aadhyaaa26-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26" />
+</a>
 
----
+<img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+decision-ready+insights;Python+%7C+SQL+%7C+Power+BI+%7C+EDA;Building+data+pipelines+that+actually+ship;Open+to+Data+Analyst+roles;&font=Fira+Code&center=true&width=600&height=45&color=7aa2f7&vCenter=true&size=22&background=1a1b2600" />
+
+<img src="https://komarev.com/ghpvc/?username=Aadhyaaa26&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="profile views" />
+
+</div>
+
+<br>
 
 ## 👩‍💻 About Me
 
-- 🎓 Graduated **B.Sc. Computer Science** student from KSD Model College, Dombivli (2023–2026)
-- 💼 Interned at **Codec Technologies** — built an AI-powered Sentiment Analysis web app
-- 🏫 Interned at **Model College** — built a full-stack Placement Cell Management System
-- 🌱 Currently improving my **Data Structures & Algorithms** skills
-- 🚀 Passionate about building real-world web applications with clean, scalable code
+```python
+class AadhyaNadar:
+    def __init__(self):
+        self.role = "Data Analyst"
+        self.education = "B.Sc. Computer Science, Mumbai University (2023–2026)"
+        self.cgpa = 8.19
+        self.location = "Mumbai, Maharashtra, India"
+        self.focus = ["Data Analysis", "SQL", "Data Visualization", "EDA"]
+        self.currently_learning = ["Advanced Power BI", "Data Engineering", "ML Deployment"]
 
-## 🛠️ Tech Stack
+    def philosophy(self):
+        return "Good data tells a story — my job is to make sure it gets told clearly."
+```
 
-**Languages**
+- 🎓 B.Sc. in Computer Science, KSD Model College, Dombivli (Mumbai University) — **CGPA 8.19**, graduating 2026
+- 📊 Hands-on experience turning messy, real-world data into clean pipelines and decision-ready dashboards
+- 🛠️ Comfortable across the full analytics stack — from SQL schema design to Python-based EDA to Power BI reporting
+- 📈 Improved a real classification model's accuracy from a **71% baseline to 85%** through structured feature engineering
+- 🗄️ Designed relational databases handling 500+ records with optimized, report-ready queries
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-**Frontend**
+## ⚡ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<div align="center">
 
-**Backend & Database**
+**Data Analysis & BI**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/Excel-1a1b26?style=flat-square&logo=microsoftexcel&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/SQL-1a1b26?style=flat-square&logo=mysql&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Pandas-1a1b26?style=flat-square&logo=pandas&logoColor=bb9af7" />
+<img src="https://img.shields.io/badge/NumPy-1a1b26?style=flat-square&logo=numpy&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Power_BI-1a1b26?style=flat-square&logo=powerbi&logoColor=f7768e" />
 
-**ML / NLP**
+**Visualization**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF-blueviolet?style=flat-square)
+<img src="https://img.shields.io/badge/Matplotlib-1a1b26?style=flat-square&logo=plotly&logoColor=e0af68" />
+<img src="https://img.shields.io/badge/Seaborn-1a1b26?style=flat-square&logo=python&logoColor=7aa2f7" />
+
+**Databases & ETL**
+
+<img src="https://img.shields.io/badge/MySQL-1a1b26?style=flat-square&logo=mysql&logoColor=00758f" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=9ece6a" />
+
+**Programming**
+
+<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7dcfff" />
+<img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=openjdk&logoColor=e0af68" />
+<img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=e0af68" />
+
+**ML / Modeling**
+
+<img src="https://img.shields.io/badge/scikit--learn-1a1b26?style=flat-square&logo=scikitlearn&logoColor=f7768e" />
+<img src="https://img.shields.io/badge/TF--IDF-1a1b26?style=flat-square&logo=python&logoColor=bb9af7" />
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+<img src="https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=f7768e" />
+<img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=c0caf5" />
+<img src="https://img.shields.io/badge/VS_Code-1a1b26?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Jupyter-1a1b26?style=flat-square&logo=jupyter&logoColor=e0af68" />
+<img src="https://img.shields.io/badge/Postman-1a1b26?style=flat-square&logo=postman&logoColor=e0af68" />
 
-## 🚀 Featured Projects
+</div>
 
-### 🤖 [AI Sentiment Analysis App](https://github.com/Aadhyaaa26/Sentiment-analysis-app)
-> NLP-powered text classification web app built during internship at Codec Technologies
+---
 
-- Classifies text as positive, negative, or neutral in real time with a live confidence score
-- Full custom NLP pipeline: tokenization, stop-word removal, TF-IDF feature extraction
-- Lifted accuracy from a 71% baseline to **85%** on real-world text data
-- Flask REST API backend + responsive vanilla JS frontend with a live "mood gauge" visualization
-- **Tech:** Python · scikit-learn · Flask · NLP · HTML · CSS · JavaScript
+## 💼 Featured Projects
 
-### 🏫 [Placement Cell Website](https://github.com/Aadhyaaa26/Placement-Cell-Website)
-> Full-stack campus recruitment platform built with Node.js, Express, and MySQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Multi-role system for **500+ students**, **120+ recruiters**, and **80+ companies**
-- Role-based access control (RBAC) with secure JWT authentication
-- Features: AI Resume Analyzer, Interview Prep modules, Job Match Algorithm, Salary Predictor
-- **Tech:** Node.js · Express · MySQL · HTML · CSS · JavaScript
+### 📊 Sentiment Analysis & Text Classification
+*May 2025*
 
-## 📊 GitHub Stats
+**Problem:** Classify real-world text data with reliable accuracy for downstream decision-making.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadhyaaa26&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhyaaa26&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+**What I did:**
+- Ran EDA and feature engineering (TF-IDF, tokenization, stop-word removal)
+- Benchmarked multiple scikit-learn classifiers on accuracy, precision, and recall
+- Deployed the final model as a **live web application** for non-technical users
 
-## 📫 Let's Connect
+**Result:** Lifted accuracy from a **71% baseline to 85%**
 
-I'm actively looking for **fresher opportunities** in Data Analyst and AI/ML.
-Feel free to reach out!
+**Stack:** `Python` `Pandas` `NumPy` `scikit-learn` `TF-IDF`
 
-- 📧 aadhyanadar@gmail.com
-- 💼 [linkedin.com/in/aadhyanadar2605](https://linkedin.com/in/aadhyanadar2605)
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Placement Data Management System
+*Jan 2025*
+
+**Problem:** Replace 3 disconnected manual processes tracking students, recruiters, and applications.
+
+**What I did:**
+- Designed a normalized MySQL schema consolidating 500+ student and 30+ recruiter records
+- Wrote optimized SQL queries powering filter/search/export reporting
+- Implemented **RBAC with JWT auth** across 3 user roles to secure sensitive data
+
+**Result:** Single source of truth replacing manual, paper-based tracking
+
+**Stack:** `MySQL` `SQL` `JWT` `RBAC`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Professional Experience
+
+**Data & Software Intern** — *Codec Technologies* · May 2025
+- Improved classification accuracy from 71% → 85% via TF-IDF and structured EDA
+- Built a full pipeline: ingestion → cleaning → transformation → classification
+- Delivered a real-time reporting interface with **sub-300ms response time**
+
+**Data & Systems Intern** — *Model College* · Jan 2025
+- Designed a normalized MySQL schema for a Placement Cell Management System (500+ records)
+- Implemented RBAC with JWT authentication across 3 user roles
+- Built a responsive dashboard for filtering, searching, and exporting placement data
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aadhyaaa26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhyaaa26&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhyaaa26&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 📊 Advanced Power BI (DAX, data modeling)
+- 🧮 Statistical analysis for deeper business insight
+- ⚙️ Data engineering fundamentals & pipeline design
+- 🤖 Applied machine learning for analytics use cases
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:aadhyanadar@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" /></a>
+<a href="https://linkedin.com/in/aadhyanadar2605"><img src="https://img.shields.io/badge/-LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
+<a href="https://github.com/Aadhyaaa26"><img src="https://img.shields.io/badge/-GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Every dataset has a story — my job is to find it, clean it, and tell it clearly."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=100&section=footer" width="100%"/>
+
+</div>
