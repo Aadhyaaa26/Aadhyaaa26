@@ -91,7 +91,7 @@
 <td width="50%" valign="top">
 
 ### 📊 HR Analytics Dashboard (Power BI)
-*2025*
+*Mar 2026*
 
 **Problem:** Give HR stakeholders a fast, visual way to explore attrition drivers across a 1,470-employee workforce.
 
