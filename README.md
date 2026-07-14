@@ -90,6 +90,23 @@
 <tr>
 <td width="50%" valign="top">
 
+### 📊 HR Analytics Dashboard (Power BI)
+*2025*
+
+**Problem:** Give HR stakeholders a fast, visual way to explore attrition drivers across a 1,470-employee workforce.
+
+**What I did:**
+- Built an interactive Power BI dashboard with department-level filtering (HR, R&D, Sales)
+- Modeled relationships and wrote DAX measures for attrition rate, average age, salary, and tenure
+- Designed visuals breaking down attrition by age, education, salary band, tenure, gender, and job role
+
+**Result:** Surfaced key insight that employees aged 26–35, first-year tenure, and lower salary bands drive the highest attrition (16.1% overall)
+
+**Stack:** `Power BI` `DAX` `Power Query` `Data Modeling`
+
+</td>
+<td width="50%" valign="top">
+
 ### 📊 Sentiment Analysis & Text Classification
 *May 2025*
 
@@ -103,23 +120,6 @@
 **Result:** Lifted accuracy from a **71% baseline to 85%**
 
 **Stack:** `Python` `Pandas` `NumPy` `scikit-learn` `TF-IDF`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Placement Data Management System
-*Jan 2025*
-
-**Problem:** Replace 3 disconnected manual processes tracking students, recruiters, and applications.
-
-**What I did:**
-- Designed a normalized MySQL schema consolidating 500+ student and 30+ recruiter records
-- Wrote optimized SQL queries powering filter/search/export reporting
-- Implemented **RBAC with JWT auth** across 3 user roles to secure sensitive data
-
-**Result:** Single source of truth replacing manual, paper-based tracking
-
-**Stack:** `MySQL` `SQL` `JWT` `RBAC`
 
 </td>
 </tr>
